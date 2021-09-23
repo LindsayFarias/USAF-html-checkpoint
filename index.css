@@ -1,26 +1,13 @@
-header {
-    display:flex;
-    justify-content: space-between;
+.navbar {
     padding: 1%;
     background-color: rgb(48, 44, 44);
     height: 10%;
+    width: 100%;
 }
 
-.row {
-    color: white;
-    margin-left: 3%;
+.headerForm {
+    padding-left: 65%
 }
-
-.containerSearch {
-    justify-content: flex-end;
-    margin-right: 3%;
-}
-
-.btn-dark {
-    border: 1px solid rgb(212, 178, 85);
-    font-color: rgb(212, 178, 85);
-}
-
 .main {
     margin-left: 25%;
     margin-right: 25%;
