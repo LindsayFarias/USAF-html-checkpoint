@@ -1,0 +1,31 @@
+.navbar {
+    padding: 1%;
+    background-color: rgb(48, 44, 44);
+    height: 10%;
+    width: 100%;
+}
+
+.headerForm {
+    padding-left: 65%
+}
+
+.movieBrowser {
+    height: 100%;
+    width: 100%;
+}
+
+.container-flex {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.container-flex a {
+    height: 40%;
+    width: 20%;
+    padding: 1%;
+}
+
+.img {
+    height: 96%;
+    width: 96%;
+}

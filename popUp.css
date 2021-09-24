@@ -1,0 +1,52 @@
+.navbar {
+    padding: 1%;
+    background-color: rgb(48, 44, 44);
+    height: 10%;
+    width: 100%;
+}
+
+.headerForm {
+    padding-left: 65%
+}
+
+.movieBrowser {
+    height: 100%;
+    width: 100%;
+}
+
+.backButton {
+    background-color: gray;
+    margin-top: 1%;
+    height: 50px;
+}
+
+.backButton a {
+    color: rgb(216, 175, 42);
+    padding-left: 2%;
+    margin: auto;
+}
+
+.card {
+    margin-left: 2%;
+    margin-top: 2%;
+    height: 50%;
+    width: 50%%;
+    border-style: hidden;
+}
+
+.img-fluid {
+    height: 100%;
+    margin-left:10%;
+}
+
+.mb-3 {
+    margin-left: 2%
+}
+
+.form-control {
+    width: 20%;
+}
+
+.btn-primary {
+    margin-left: 2%;
+}
